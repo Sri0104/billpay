@@ -1,2 +1,2 @@
 # billpay
-This is base version for BillPay app
+This is the base version for BillPay app
